@@ -67,7 +67,6 @@ li button{
         height: 50px;
         border-radius: 10px;
         border:5px solid none;
-        background-color: orangered;
 
     }
     #honda{
@@ -75,13 +74,33 @@ li button{
         height: 50px;
         border-radius: 10px;
         border:5px solid none;
-        background-color: orangered;
+    
     }
+    #mazda{
+        width: 40px;
+        height: 50px;
+        border-radius: 10px;
+        border:5px solid none;
+    }
+    #toyota{
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+        border:5px solid none;
+    }
+
 #merc{float:right;}
-#rcbtn{
+#rcbtn1{
+    border: 1px solid orangered;
+    border-radius:6px ;
+    font-weight: 700;
     background-color: orangered;
+    padding: 10px;
+
+}
+#rcbtn{
+    background-color: white;
     border-radius: 20px;
-    border:5px solid orangered;
-    padding: 5px;
+    padding: 1px;
 }
 
