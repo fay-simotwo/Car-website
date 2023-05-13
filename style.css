@@ -1,12 +1,29 @@
-.columnn{}
 .nav-bar{
     border-bottom:2px solid black ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
 }
 li{display: inline-block;
 padding: 15px;
-font-weight: 600;
+font-weight: ;
 }
->col{
+li button{
+    border-radius: 6px;
+    border: none;
+    padding: 5px 15px;
+    font-weight:700;
+    background-color: orangered;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    margin-left:25px;
+    font-size: large;
+}
+.columnn{
+    float:left;
+    width: 33.33%;
+    margin-bottom: 80px;
+
 
 }
