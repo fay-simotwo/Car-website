@@ -1,3 +1,11 @@
+body{
+    font-family:montserrat;}
+
+@media (max-width:500px){
+body{
+    font-size: large;
+}
+}
 .nav-bar{
     border-bottom:2px solid black ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -109,9 +117,9 @@ li button{
 
 #merc{float:right;}
 #rcbtn1{
-    border: 1px solid orangered;
-    border-radius:6px ;
-    font-weight: 700;
+    border: none;
+    border-radius:10px ;
+    font-weight: 800;
     background-color: orangered;
     padding: 1px 30px;
 
@@ -121,10 +129,11 @@ li button{
     background-color: white;
     border-radius: 10px;
     padding: 1px 30px;
-    margin: 20px;
+    margin: 8px;
     border: 1px solid lightgrey;
 }
- 
+
+
 span{
     color: orangered;
 }
@@ -132,6 +141,7 @@ span{
 
 
 .row1 {
-    margin-left: 30px;
+    margin-left: 100px;
     margin-top: 80px;
+    font-weight: 800;
 }
