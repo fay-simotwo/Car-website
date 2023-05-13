@@ -24,6 +24,25 @@ li button{
     float:left;
     width: 33.33%;
     margin-bottom: 80px;
-
+}
+#rent{
+    border: 1px solid orangered;
+    border-radius:6px ;
+    font-weight: 700;
+    color: orangered;
+    background-color: white;
+    padding: 10px;
+}
+#buy{
+    border: 1px solid orangered;
+    border-radius:6px ;
+    font-weight: 700;
+    background-color: orangered;
+    padding: 10px;
 
 }
+.row{
+    float:left;
+    clear:left;
+}
+
