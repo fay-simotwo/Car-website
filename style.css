@@ -187,10 +187,11 @@ section{
 .get-info {
     padding: 15px 25px;
     background-color: orangered;
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     font-weight: 800;
     margin-left: 20px;
     padding-bottom: 20px;
     margin-bottom: 25px;
+
 }
