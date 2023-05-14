@@ -63,9 +63,10 @@ li button{
 }
 .col2{
     float: left;
-    width: 50%;
+    width: 40%;
     margin-top: -250px;
-    margin-left: 150px
+    margin-left: 800px;
+    box-shadow:1px 5px 5px 1px rgb(185, 171, 171);
 }
 .row{
     float:left;
@@ -75,16 +76,15 @@ li button{
 #image1{
     width: 500px;
     height: 350px;
-    margin-left: 470px;
+    margin-left:  -140px;
     padding-bottom: -50px;
     border-bottom: 2px solid white;
-    box-shadow:5px 10px 10px rgb(197, 152, 152) ;
-    background-color: white;
+   
 }
 #mercedes{
     width: 40px;
     height: 40px;
-    border-radius: 2px;
+    border-radius: 10px;
     border:5px solid none;
     background-color: orangered;
     }
