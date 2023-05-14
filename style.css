@@ -305,5 +305,9 @@ input{
     border: none;
     border-radius: 5px;
     padding: 10px 25px;
-    margin-left: 60px;
+    margin-left: 10px;
+}
+.card li {
+    display: inline;
+    list-style: none;
 }
