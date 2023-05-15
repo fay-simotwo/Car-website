@@ -32,7 +32,8 @@ Vscode
 ### Link to live site
 ##### https://fay-simotwo.github.io/Car-website/
 
-
+### Project Design
+<img width="1440" alt="Landing-page" src="https://github.com/fay-simotwo/Car-website/assets/117070967/4c0b6810-675d-4a00-ad04-28d1413049d9">
 
 ### known Bugs
 #### There are no known bugs, incase of any please raise an issue
