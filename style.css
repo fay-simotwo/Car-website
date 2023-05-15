@@ -263,40 +263,41 @@ section{
 }
 .footer{
     float: left;
-    width: 25%;
+    width: 21%;
     margin-left: 25px;
 
 }
 
 .footer1{
     float: left;
-    width: 25%;
+    width: 21%;
     margin-left: 25px;}
 .footer2{
     float: left;
-    width: 25%;
+    width: 21%;
     margin-left: 25px;
 }
 .footer3{
     float: left;
-    width: 25%;
+    width: 21%;
     margin-left: 25px;
 }
 
 .footer-row {
     margin-top: 100px;
-    font-weight: 700;
-    margin-left: 100px;
+    margin-left: 130px;
+        
 }
 .footer-row h3{
     font-size: 20px;
 }
 
 input{
-    padding: 15px;
-    display:list-item;
-    margin: 10px;
+    display: list-item;
+    border-radius: 6px;
+    padding: 10px;
     border: 3px solid orangered;
+    margin: 10px;
     
 }
 .submit {
